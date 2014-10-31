@@ -1,7 +1,7 @@
 EmailSorter
 ===========
 
-An e-mail sorter plugin for gmail
+An e-mail sorter plugin for gmail made in google scripts.
 
 There are four functions/implementation I've made to sort email by:
 
